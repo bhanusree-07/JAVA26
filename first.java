@@ -1,6 +1,6 @@
 public class First {
     public static void main(String[] args) {
 
-        System.out.println("Hello bhanu World");
+        System.out.println("The world is my oyster");
     }
 }
