@@ -3,5 +3,6 @@ public class First {
 
         System.out.println("The world is my oyster");
         System.out.println("hello");
+        System.out.println("hi");
     }
 }
