@@ -12,6 +12,11 @@ public class Factorial {
             fact *= i;
         }
 
+        
+        
+        System.out.println("more responsible!");
+
+
         System.out.println("Factorial = " + fact);
         sc.close();
     }
